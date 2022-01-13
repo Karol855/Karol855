@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
+  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
 
