@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align='center'>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Karol855)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Karol855.Karol855)
 
 </p>
 <div size='20px'> Hi! My name is Karol. Thank You for taking the time to view my GitHub Profile :smile: 
