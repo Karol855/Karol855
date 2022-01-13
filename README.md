@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job as a Junior Front-end Developer
 
-- 🌱 I’m currently learning JavaScript,React and and I am just starting a node.js course <a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+- 🌱 I’m currently learning JavaScript,React and and I am just starting a node.js course <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 
 - 💬 Talk to me about JavaScript, React and Job Opportunites
 
