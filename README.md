@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/get/g203ef4e77b2cecac99b656a815dd67248d000d2d013f727a9f655c94f328fd38372b9fbfa3db59756bd8f31d0359cbc3bb08b1c2f6042f3e136ffa03025f6a3699dd1b1ab85242ae0a7cdbc58819d4ea_1920.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
 
