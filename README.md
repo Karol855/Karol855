@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for my firs job in IT
 
-- 🌱 I’m currently learning JavaScript,React and and I am just starting a node.js course <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+- 🌱 I’m currently learning JavaScript,React, Java, Software testing, Automation testing <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 
-- 💬 Talk to me about JavaScript, React and Job Opportunites
+- 💬 Talk to me about JavaScript, Java, Testing, Job Opportunites
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
