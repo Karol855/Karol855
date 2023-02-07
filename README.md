@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hello Fellow < Developers/ >! </h1>
+<h1> Hello Fellow ! </h1>
 <p align='center'>
 
 
